@@ -1,9 +1,8 @@
 # Napredno Programiranje - Joker_Zadaca_karti_lab6
 
-## Compile
-- To compile the code you will need a modern C++ compiler (g++ or clang) and raylib
+## Testrirano na Arch Linux/ macOS Ventura, bi trebalo da raboti i na Windows
 
-- Install them on arch:
+## Compile
 ```
 sudo pacman -S g++ cmake raylib
 ```
@@ -11,7 +10,7 @@ sudo pacman -S g++ cmake raylib
 ```
 g++ main.cpp -o main -lraylib
 ```
-- or if you have raylib somewhere else:
 ```
 g++ main.cpp -o main -L/path/to/raylib -lraylib
 ```
+ili koristi CLION (preku cmake kje se simni raylib)
