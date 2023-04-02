@@ -1,10 +1,9 @@
 # Napredno Programiranje - Joker_Zadaca_karti_lab6
 
+## Testrirano na Arch Linux/ macOS Ventura 13.3, bi trebalo da raboti i na Windows
+
 ![DEMO](demo.png)
 ![DEMO1](demo1.png)
-
-
-## Testrirano na Arch Linux/ macOS Ventura, bi trebalo da raboti i na Windows
 
 ## Compile
 ```
