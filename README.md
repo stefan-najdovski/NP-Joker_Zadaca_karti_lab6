@@ -2,7 +2,9 @@
 
 ## Testrirano na Arch Linux/ macOS Ventura 13.3, bi trebalo da raboti i na Windows
 
+### Podredeni:
 ![DEMO](demo.png)
+### Izmeasni:
 ![DEMO1](demo1.png)
 
 ## Compile
