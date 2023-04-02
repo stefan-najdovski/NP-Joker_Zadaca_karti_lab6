@@ -1,5 +1,9 @@
 # Napredno Programiranje - Joker_Zadaca_karti_lab6
 
+![DEMO](demo.png)
+![DEMO1](demo1.png)
+
+
 ## Testrirano na Arch Linux/ macOS Ventura, bi trebalo da raboti i na Windows
 
 ## Compile
